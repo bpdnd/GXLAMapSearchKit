@@ -1,0 +1,6 @@
+framework module GXLAMapSearchKit {
+  umbrella header "GXLAMapSearchKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

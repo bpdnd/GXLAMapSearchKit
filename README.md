@@ -27,3 +27,5 @@ bpdnd, 3438291751@qq.com
 ## License
 
 GXLAMapSearchKit is available under the MIT license. See the LICENSE file for more info.
+## 版本
+高德地图搜索 7.3.0

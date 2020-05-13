@@ -1,0 +1,6 @@
+framework module Pods_GXLAMapSearchKit_Tests {
+  umbrella header "Pods-GXLAMapSearchKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

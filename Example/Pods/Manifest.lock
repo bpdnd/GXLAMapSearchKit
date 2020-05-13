@@ -1,0 +1,16 @@
+PODS:
+  - GXLAMapSearchKit (0.1.0)
+
+DEPENDENCIES:
+  - GXLAMapSearchKit (from `../`)
+
+EXTERNAL SOURCES:
+  GXLAMapSearchKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GXLAMapSearchKit: 92138bfdf2e77575cc582ca360789bbbda20a9e8
+
+PODFILE CHECKSUM: 17f151fd5e4bf8b66de4f2b49c59dc9abf210bdd
+
+COCOAPODS: 1.7.5

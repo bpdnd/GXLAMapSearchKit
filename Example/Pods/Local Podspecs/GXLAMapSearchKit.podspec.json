@@ -1,0 +1,22 @@
+{
+  "name": "GXLAMapSearchKit",
+  "version": "0.1.0",
+  "summary": "A short description of GXLAMapSearchKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bpdnd/GXLAMapSearchKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bpdnd": "3438291751@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/bpdnd/GXLAMapSearchKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GXLAMapSearchKit/Classes/**/*"
+}
